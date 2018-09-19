@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Transit-Loss",
+    "organization": "U.S. Geological Survey",
+    "description": "A physically-based FORTRAN methodology for transit-loss accounting within Fountain and Monument Creeks near Colorado Springs, Colorado that calculates the amount of reusable return flow that reaches the Arkansas River on a daily basis",
+    "version": "v0.0.0",
+    "status": "Preliminary",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://github.com/usgs/transit-loss/blob/master/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://usgs.github.io/transit-loss/",
+    "downloadURL": "https://github.com/usgs/transit-loss/archive/master.zip",
+    "disclaimerURL": "https://github.com/usgs/transit-loss/blob/master/disclaimer.md",
+    "repositoryUrl": "https://github.com/usgs/transit-loss.git",
+    "vcs": "git",
+
+    "laborHours": null,
+
+    "tags": [
+      "transit-loss",
+      "FORTRAN",
+      "Colorado",
+      "Fountain"
+      "Monument"
+    ],
+
+    "languages": [
+      "FORTRAN"
+    ],
+
+    "contact": {
+      "name": "Gary Krammes",
+      "email": "gkrammes@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2018-09-19"
+    }
+  }
+]
